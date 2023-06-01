@@ -644,6 +644,15 @@ section.coming-soon .continer h4 em {
     font-style: normal;
     color: #f5a425;
 }
+section.coming-soon .continer p {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 200;
+  letter-spacing: 0.5px;
+  line-height: 40px;
+  margin-bottom: 0px;
+}
 
 @media screen and (max-width: 767px) {
 
@@ -741,6 +750,7 @@ section.coming-soon .top-content h6 {
 section.coming-soon .top-content h6 em {
     font-style: normal;
     font-weight: 600;
+    color: #f5a425;
 }
 
 section.coming-soon form {
